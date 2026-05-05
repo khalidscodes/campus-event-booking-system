@@ -25,6 +25,16 @@ It provides a seamless graphical interface for administrators to create events a
 
 ---
 
+## 👨‍💻 My Role & Contributions: Component Developer & Systems QA
+
+As a core developer within the 7-person agile team, I focused heavily on frontend development, search logic, and systems integration. My specific contributions to this repository include:
+
+* **Frontend GUI Development:** Designed and programmed the primary User Input Form and the Event Booking Form using Java Swing to ensure an intuitive user experience.
+* **Backend Filtering Logic:** Engineered the "Filter Events by Type" functionality. This involved writing the object-oriented logic to dynamically sort and retrieve event data across the `Workshop`, `Seminar`, and `Concert` class hierarchies.
+* **Systems QA & Integration Analysis:** Acted as a key systems analyst during Phase 1 by identifying critical architectural disconnects between the initial GUI and the core backend engine. By proactively escalating these integration roadblocks, I helped stabilize the system architecture for a seamless Phase 2 delivery.
+* **Version Control:** Managed component development via GitHub, utilizing incremental branch commits and pull requests to merge my frontend and filtering features with the data models built by the rest of the team.
+
+
 ## ✨ Key Features
 
 The project was developed in two major phases, culminating in a robust and persistent application.
